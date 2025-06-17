@@ -1,0 +1,6 @@
+@NetApiPostgreSQL_HostAddress = http://localhost:5112
+
+GET {{NetApiPostgreSQL_HostAddress}}/evento/
+Accept: application/json
+
+###
